@@ -1,0 +1,22 @@
+Answer1:
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+
+Diffrent Ways to Install Python:
+
+1. Visit "Python for Windows download page".
+2.Download Anaconda>Jupyter Notebooks.
+
+
+Answer2:
+A code environment is a standalone and self-contained environment to run Python or R code. Each code environment has its own set of packages. Environments are independent: you can install different packages or different versions of packages in different environments without interaction between them.Each code environment has its own set of packages. Environments are independent: you can install different packages or different versions of packages in different environments without interaction between them. In the case of Python environments, each environment may also use its own version of Python. You can for example have one environment running Python 2.7 and one running Python 3.6.
+
+Types of Code Environment:
+
+1.Text Editor:
+To program Python, most any text editor will do. A text editor is a program that saves your files without formatting.So, it is possible to find a text editor with thousands of features, just like a word processor. The defining characteristic is that it saves the text as simple, plain text.
+
+2.Full IDEs:
+An IDE (or Integrated Development Environment) is a program dedicated to software development. As the name implies, IDEs integrate several tools specifically designed for software development. These tools usually include: An editor designed to handle code (with, for example, syntax highlighting and auto-completion)
+
+3.Notebook Environments:
+A notebook interface (also called a computational notebook) is a virtual notebook environment used for literate programming.
